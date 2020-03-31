@@ -31,7 +31,7 @@ For the category, title, and severity fields, I've made issue labels for those. 
    Just Windows! Dammit, Bill!
    - Screenshots
 
-#Copy-Pastable template
+# Copy-Pastable template
 
 - Steps To Reproduce:
   - <Replace me!>
