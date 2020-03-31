@@ -3,15 +3,17 @@ It's harvesting season, and we've got weevils!
 
 If you want to contribute to the effort to squash all these bugs, I'd appreciate it if you followed this standard format (shamelessly ripped off from a guy called Leszek Gorniak on Gamasutra):
 
+For the category, title, and severity fields, I've made issue labels for those. Try to use those before making new ones. 
+
    - Title:
    Some descriptive label for the bug. 
    - Category:
-   Scene AI: For the troops doing strange things, townspeople not pathing right, etc.
-   Campaign AI: Lords and other parties getting glitched. This isn't for Lords making dumb decisions within the bounds of proper functioning.
-   Dialogues / In-game Documentation: Improper grammar, spelling, placeholder text, etc.
-   User Interface: Buttons not working, etc.
-   Graphics: Models, textures, post-processing, lighting...
-   Gameplay: Sort of a catch-all for anything not covered by the other categories.
+     - Scene AI: For the troops doing strange things, townspeople not pathing right, etc.
+     - Campaign AI: Lords and other parties getting glitched. This isn't for Lords making dumb decisions within the bounds of proper functioning.
+     - Dialogues / Writing: Improper grammar, spelling, placeholder text, etc.
+     - User Interface: Buttons not working, etc.
+     - Graphics: Models, textures, post-processing, lighting...
+     - Gameplay: Sort of a catch-all for anything not covered by the other categories.
    
    - Severity/Priority:
    Minor, Major, Game-breaking, Crash
@@ -29,3 +31,15 @@ If you want to contribute to the effort to squash all these bugs, I'd appreciate
    Just Windows! Dammit, Bill!
    - Screenshots
 
+#Copy-Pastable template
+
+- Steps To Reproduce:
+  - <Replace me!>
+- Current Result:
+  - <Replace me!>
+- Expected Result:
+  - <Replace me!>
+- Affected Version:
+- Reproducibility:
+- Platform:
+- Screenshots:
