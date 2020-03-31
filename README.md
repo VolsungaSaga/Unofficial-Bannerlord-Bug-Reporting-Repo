@@ -3,6 +3,8 @@ It's harvesting season, and we've got weevils!
 
 If you want to contribute to the effort to squash all these bugs, I'd appreciate it if you followed this standard format (shamelessly ripped off from a guy called Leszek Gorniak on Gamasutra):
 
+I'd like ya'll to keep in mind that this repository is NOT for suggestions, proposals, or any feature requests. This is ONLY for actual, bona-fide glitches. I will remove any issue violates this without warning, and I'm entirely willing to start a nuclear winter over this.
+
 For the category, title, and severity fields, I've made issue labels for those. Try to use those before making new ones. 
 
    - Title:
@@ -22,11 +24,11 @@ For the category, title, and severity fields, I've made issue labels for those. 
    - Current Result:
    What happens now? 
    - Expected Result:
-   What ought to happen?
+   What ought to happen? 
    - Affected Version:
      You can find the version number on the bottom left of the initial splash screen when you press "Play" in Steam.
    - Reproducibility:
-   Trivially Deterministic --> Complicated Deterministic --> Random
+   Discuss how easy/hard it is to reproduce. Is it dependent on random variables, or can it be reliably reproduced by following certain steps? 
    - Platform:
    Just Windows! Dammit, Bill!
    - Screenshots
